@@ -5,7 +5,7 @@ Jamg,Drunk On Love
 BTZ,Boy With Luv
 Urvan,Seoul Night
 Lei,No One
-Ret, Zimzalabim
+Ret,Zimzalabim
 TWECE,Fancy
 JAMNABI,For Lovers Who Hesitate
 TAIYEON,Four Seasons
@@ -23,9 +23,9 @@ WIMNER,Ah Yeah
 Choong,Gotta Go
 iTSY,Dalla Dalla
 N.PHlying,Rooftop
-Paool,Every Day Every Moment 
-CHIN, Beautiful Goodbye
-M.K.,One Day Only
+Paool,Every Day Every Moment
+CHIN,Beautiful Goodbye
+M.K.,One Day Only 
 BTZ,Mikrokosmos
 BOLI4,Stars Over Me
 Giryiboy,I'm Sick
@@ -93,7 +93,7 @@ Hikkee,If there was practice in love
 BTZ,A Brand New Day
 ImxChang,There Has Never Been A Day I Haven't Loved You
 Cary,Memorize Our Night
-BLOCKPINK,Don't Know What To Do
+BLOCKPINK,Don't Know What To Do 
 BTYOB,Only One For Me
 VIVE,Fall in Fall
 BLOCKPINK,DDU-DU DDU-DU
